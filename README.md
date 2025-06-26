@@ -1,7 +1,7 @@
 # Kevin’s Cybersecurity Journey
 
 ## 👋 O mnie
-Cześć! Nazywam się **Kevin**, mam **17 lat** i od kilku tygodni intensywnie rozwijam swoje umiejętności w obszarze **cyberbezpieczeństwa**. Uczę się codziennie, eksploruję laby i biorę udział w wyzwaniach na platformach takich jak Hack The Box.
+Cześć! Nazywam się igor blsak  i od kilku tygodni intensywnie rozwijam swoje umiejętności w obszarze **cyberbezpieczeństwa**. Uczę się codziennie, eksploruję laby i biorę udział w wyzwaniach na platformach takich jak Hack The Box.
 
 ## 🚀 Co zrobiłem dzisiaj
 1. **Zdobycie dostępu**  
@@ -34,4 +34,4 @@ Cześć! Nazywam się **Kevin**, mam **17 lat** i od kilku tygodni intensywnie r
 ---
 
 Jeśli szukasz zaangażowanego młodego pentestera na praktyki lub do projektu – daj mi znać!  
-Kontakt: **bibip0662@gmail.com**
+Kontakt: pikola93846@gmail.com
